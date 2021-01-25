@@ -18,19 +18,13 @@
 
 <!-- Nav Menu -->
 <div  align="center">
-	<a  href=#telescope-tecnologias>Technologies</a>&nbsp&nbsp|&nbsp&nbsp<a  href="#memo-licença">License</a><br/><br/>
+	<a  href=#rocket-technologies>Technologies</a><br/><br/>
 	<!--<img  width="400"  src="###">-->
 </div>
 
 
-### :telescope: Technologies
+### :rocket: Technologies
 
 - [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-
----
-
-### :memo: License
-
-- :balance_scale: MIT License - [About](https://github.com/joaovictornsv/search-bar/blob/master/LICENSE)
